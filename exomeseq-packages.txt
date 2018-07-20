@@ -1,7 +1,7 @@
 gatk=3.8
 bwa=0.7.12
-samtools=1.2-242-g4d56437
+samtools=1.2
 fastqc=0.11.4
-picard=2.10.7
+picard=2.10.6
 cutadapt=1.14
-trimgalore=0.4.4
+trim-galore=0.4.4
